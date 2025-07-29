@@ -1,4 +1,4 @@
-# ExerciceBibliotheque
+# Classe Chien
 
 Crée une classe Chien qui a deux propriétés :,
 nom
@@ -14,3 +14,9 @@ Crée un objet $chien1 de la classe Chien avec le nom "Rex" et la race "Berger A
 Affiche le nom et la race du chien.,
 Change le nom du chien en "Max".,
 Fais aboyer le chien avec la méthode aboyer().
+
+# Classe Humain
+Créer une chasse Humain
+Créer 2 enfants de Humain : Homme et Femme
+
+Tester les fonctionnalités d'héritage entre parent et enfant en utilisant les méthodes du parents via l'enfant
